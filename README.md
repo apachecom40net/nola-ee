@@ -6,6 +6,6 @@
 [FortiCNAPP](https://partner-demo.lacework.net/)
 
 ## Registrarse en el evento Capture the Flag usando el siguiente Código de Registro [ XXXX ]
-[Capture the Flag](https://nolaee-lwctf.com)
+[Capture the Flag](https://nola-ee.lwctf.com)
  
 
